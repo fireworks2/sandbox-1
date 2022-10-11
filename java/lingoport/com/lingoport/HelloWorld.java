@@ -10,6 +10,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		String greeting = "Hello";
 		greeting += " World";
+		String test = "test";
 		String goodbye = " Goodbye World";
 
 		greeting.equalsIgnoreCase(goodbye);
